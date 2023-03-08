@@ -1,0 +1,788 @@
+fileFormatVersion: 2
+guid: 28d9762a082e0084fa8ac6d6e66a4e56
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2546851322596374197
+    second: pngkey.com-mario-brick-png-3254010_0
+  - first:
+      213: -7730353231898023264
+    second: pngkey.com-mario-brick-png-3254010_1
+  - first:
+      213: 2503542059018564136
+    second: pngkey.com-mario-brick-png-3254010_2
+  - first:
+      213: -3896001883385308109
+    second: pngkey.com-mario-brick-png-3254010_3
+  - first:
+      213: 6381009362666257742
+    second: pngkey.com-mario-brick-png-3254010_4
+  - first:
+      213: -2251340703682215669
+    second: pngkey.com-mario-brick-png-3254010_5
+  - first:
+      213: -7216645124730411909
+    second: pngkey.com-mario-brick-png-3254010_6
+  - first:
+      213: 1218251068851701464
+    second: pngkey.com-mario-brick-png-3254010_7
+  - first:
+      213: -6370198398030960574
+    second: pngkey.com-mario-brick-png-3254010_8
+  - first:
+      213: -7044882254690480482
+    second: pngkey.com-mario-brick-png-3254010_9
+  - first:
+      213: 7779375272016058580
+    second: pngkey.com-mario-brick-png-3254010_10
+  - first:
+      213: -3561679084740570355
+    second: pngkey.com-mario-brick-png-3254010_11
+  - first:
+      213: -3222664940245218420
+    second: pngkey.com-mario-brick-png-3254010_12
+  - first:
+      213: -7923400600364701377
+    second: pngkey.com-mario-brick-png-3254010_13
+  - first:
+      213: 2660690948292117408
+    second: pngkey.com-mario-brick-png-3254010_14
+  - first:
+      213: 2198115422398062395
+    second: pngkey.com-mario-brick-png-3254010_15
+  - first:
+      213: -2131033471069979651
+    second: pngkey.com-mario-brick-png-3254010_16
+  - first:
+      213: -3009260659579774157
+    second: pngkey.com-mario-brick-png-3254010_17
+  - first:
+      213: 9148273540536934000
+    second: pngkey.com-mario-brick-png-3254010_18
+  - first:
+      213: 2970369184686897724
+    second: pngkey.com-mario-brick-png-3254010_19
+  - first:
+      213: -5092045006335755226
+    second: pngkey.com-mario-brick-png-3254010_20
+  - first:
+      213: 7630663124726828728
+    second: pngkey.com-mario-brick-png-3254010_21
+  - first:
+      213: 6691238068038905707
+    second: pngkey.com-mario-brick-png-3254010_22
+  - first:
+      213: 5789871108841476831
+    second: pngkey.com-mario-brick-png-3254010_23
+  - first:
+      213: 1972795898673883137
+    second: pngkey.com-mario-brick-png-3254010_24
+  - first:
+      213: 6290299126845470769
+    second: pngkey.com-mario-brick-png-3254010_25
+  - first:
+      213: 764220799350456282
+    second: pngkey.com-mario-brick-png-3254010_26
+  - first:
+      213: -3644939536373229744
+    second: pngkey.com-mario-brick-png-3254010_27
+  - first:
+      213: -6814850149583299119
+    second: pngkey.com-mario-brick-png-3254010_28
+  - first:
+      213: -1725727662991988264
+    second: pngkey.com-mario-brick-png-3254010_29
+  - first:
+      213: 8416605753589903599
+    second: pngkey.com-mario-brick-png-3254010_30
+  - first:
+      213: 3420252125360064822
+    second: pngkey.com-mario-brick-png-3254010_31
+  - first:
+      213: -7786813217317385848
+    second: pngkey.com-mario-brick-png-3254010_32
+  - first:
+      213: 8693335055160261017
+    second: pngkey.com-mario-brick-png-3254010_33
+  - first:
+      213: 4221790006383005421
+    second: pngkey.com-mario-brick-png-3254010_34
+  - first:
+      213: 7967594643957916559
+    second: pngkey.com-mario-brick-png-3254010_35
+  - first:
+      213: -3057088171403723689
+    second: pngkey.com-mario-brick-png-3254010_36
+  - first:
+      213: -7315375467415966372
+    second: pngkey.com-mario-brick-png-3254010_37
+  - first:
+      213: -2587501630749916754
+    second: pngkey.com-mario-brick-png-3254010_38
+  - first:
+      213: -7076854678139628527
+    second: pngkey.com-mario-brick-png-3254010_39
+  - first:
+      213: 7551295681408337877
+    second: pngkey.com-mario-brick-png-3254010_40
+  - first:
+      213: -1708587440512190671
+    second: pngkey.com-mario-brick-png-3254010_41
+  - first:
+      213: -5960501460758922771
+    second: pngkey.com-mario-brick-png-3254010_42
+  - first:
+      213: -4529832141878038114
+    second: pngkey.com-mario-brick-png-3254010_43
+  - first:
+      213: -7820992231284183542
+    second: pngkey.com-mario-brick-png-3254010_44
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 320
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngkey.com-mario-brick-png-3254010_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49c8e44734c7acd0800000000000000
+      internalID: -2546851322596374197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-mario-brick-png-3254010_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aaec6851b448b490800000000000000
+      internalID: -7730353231898023264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-mario-brick-png-3254010_2
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8223d040d3e5eb220800000000000000
+      internalID: 2503542059018564136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-mario-brick-png-3254010_3
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cd090ddee9ee9c0800000000000000
+      internalID: -3896001883385308109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-mario-brick-png-3254010_4
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4df9221536ed8850800000000000000
+      internalID: 6381009362666257742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-mario-brick-png-3254010_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01c4a0ee81a1c0e0800000000000000
+      internalID: -2251340703682215669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-mario-brick-png-3254010_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74a3669e7359db90800000000000000
+      internalID: -7216645124730411909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-mario-brick-png-3254010_7
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6452e74e818e010800000000000000
+      internalID: 1218251068851701464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-mario-brick-png-3254010_8
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2482a98ce428897a0800000000000000
+      internalID: -6370198398030960574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-mario-brick-png-3254010_9
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e88bc2aec8b3e90800000000000000
+      internalID: -7044882254690480482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-mario-brick-png-3254010_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d899fec794e5fb60800000000000000
+      internalID: 7779375272016058580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-mario-brick-png-3254010_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0399163ebf529ec0800000000000000
+      internalID: -3561679084740570355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-mario-brick-png-3254010_12
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b049eaf4bc643d0800000000000000
+      internalID: -3222664940245218420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-mario-brick-png-3254010_13
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39252a422d6a0290800000000000000
+      internalID: -7923400600364701377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-mario-brick-png-3254010_14
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a38c0e025cace420800000000000000
+      internalID: 2660690948292117408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-mario-brick-png-3254010_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f185f9456418e10800000000000000
+      internalID: 2198115422398062395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-mario-brick-png-3254010_16
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbf768495c0d62e0800000000000000
+      internalID: -2131033471069979651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-mario-brick-png-3254010_17
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b9035bf55fc36d0800000000000000
+      internalID: -3009260659579774157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-mario-brick-png-3254010_18
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e1fc3c05235fe70800000000000000
+      internalID: 9148273540536934000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-mario-brick-png-3254010_19
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a7709290fd83920800000000000000
+      internalID: 2970369184686897724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-mario-brick-png-3254010_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c3e09ab0c6559b0800000000000000
+      internalID: -5092045006335755226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-mario-brick-png-3254010_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bec306deaf85e960800000000000000
+      internalID: 7630663124726828728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-mario-brick-png-3254010_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fa709329d0cdc50800000000000000
+      internalID: 6691238068038905707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-mario-brick-png-3254010_23
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd21bc1f811c95050800000000000000
+      internalID: 5789871108841476831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-mario-brick-png-3254010_24
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108edc2ea67c06b10800000000000000
+      internalID: 1972795898673883137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2df46ab6637c7d348b2c3baf6980fe0c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
